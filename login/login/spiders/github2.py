@@ -17,8 +17,8 @@ class Github2Spider(scrapy.Spider):
 
             formdata={
 
-                'login': 'Reid00',  # login 字段取决于输入表单的name
-                'password': 'User@123.'
+                'login': '****',  # login 字段取决于输入表单的name
+                'password': '***'
             },
             callback=self.after_login
 

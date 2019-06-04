@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e11640c-fe19-425f-9867-6475fb5a4c2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/main_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/spiders/github1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/login/spiders/github2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/login/scrapy.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yangguang/yangguang/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/yangguang/yangguang/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login/login/spiders/github2.py" beforeDir="false" afterPath="$PROJECT_DIR$/login/login/spiders/github2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login/login/spiders/renren.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="15" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/login/login/spiders/github2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +87,8 @@
         <option value="$PROJECT_DIR$/login/login/settings.py" />
         <option value="$PROJECT_DIR$/login/login/spiders/github1.py" />
         <option value="$PROJECT_DIR$/login/login/main_login.py" />
-        <option value="$PROJECT_DIR$/login/login/spiders/github2.py" />
         <option value="$PROJECT_DIR$/login/login/spiders/renren.py" />
+        <option value="$PROJECT_DIR$/login/login/spiders/github2.py" />
       </list>
     </option>
   </component>
@@ -290,12 +290,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559485395955</updated>
-      <workItem from="1559485397232" duration="10656000" />
+      <workItem from="1559485397232" duration="11074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10656000" />
+    <option name="totallyTimeSpent" value="11074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -439,17 +439,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/login/spiders/github2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login/login/spiders/renren.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="15" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login/login/spiders/github2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
