@@ -14,9 +14,7 @@ class Github2Spider(scrapy.Spider):
     def parse(self, response):
         yield scrapy.FormRequest.from_response(
             response,  # 从response 里面寻找form 表单
-
             formdata={
-
                 'login': '****',  # login 字段取决于输入表单的name
                 'password': '***'
             },
