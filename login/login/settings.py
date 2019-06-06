@@ -41,14 +41,15 @@ COOKIES_DEBUG = True
 # TELNETCONSOLE_ENABLED = False
 
 # Override the default request headers:
-from fake_useragent import UserAgent
-
-ua = UserAgent().random
-DEFAULT_REQUEST_HEADERS = {
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Language': 'en',
-    'User-Agent': ua
-}
+# from fake_useragent import UserAgent
+#
+# # 此位置定义的user-agent 只会固定使用某一个
+# ua = UserAgent().random
+# DEFAULT_REQUEST_HEADERS = {
+#     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+#     'Accept-Language': 'en',
+#     'User-Agent': ua
+# }
 
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
@@ -58,9 +59,11 @@ DEFAULT_REQUEST_HEADERS = {
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-# DOWNLOADER_MIDDLEWARES = {
-#    'login.middlewares.LoginDownloaderMiddleware': 543,
-# }
+DOWNLOADER_MIDDLEWARES = {
+    # 'login.middlewares.LoginDownloaderMiddleware': 543,
+    'login.middlewares.RandomUserAgentMiddleware': 543,
+    # 'login.middlewares.ProxyMiddleware': 543,
+}
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
