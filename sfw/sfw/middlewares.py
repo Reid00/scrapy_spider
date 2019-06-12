@@ -9,7 +9,7 @@ from scrapy import signals
 from fake_useragent import UserAgent
 
 
-class IpProxySpiderMiddleware(object):
+class SfwSpiderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
     # passed objects.
@@ -57,7 +57,7 @@ class IpProxySpiderMiddleware(object):
         spider.logger.info('Spider opened: %s' % spider.name)
 
 
-class IpProxyDownloaderMiddleware(object):
+class SfwDownloaderMiddleware(object):
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the downloader middleware does not modify the
     # passed objects.

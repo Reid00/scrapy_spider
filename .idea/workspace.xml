@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e11640c-fe19-425f-9867-6475fb5a4c2e" name="Default Changelist" comment="" />
+    <list default="true" id="8e11640c-fe19-425f-9867-6475fb5a4c2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +12,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/spiders/kuaidaili.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="317">
+              <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+              <folding>
+                <element signature="e#193#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/spiders/suzhouesf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -23,33 +46,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/spiders/suzhoufang.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+            <state relative-caret-position="714">
+              <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
               <folding>
-                <element signature="e#169#195#0" expanded="true" />
-                <element signature="e#241#1903#0" />
-                <element signature="e#1953#3596#0" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/settings.py">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/sfw_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/proxy_main.py">
+        <entry file="file://$PROJECT_DIR$/sfw/sfw/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="626">
+              <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -68,6 +89,8 @@
       <find>reid00</find>
       <find>HEADERS</find>
       <find>BMWImagesPipeline</find>
+      <find>美的云</find>
+      <find>area</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -102,8 +125,15 @@
         <option value="$PROJECT_DIR$/login/login/spiders/random_useragent.py" />
         <option value="$PROJECT_DIR$/ip_proxy/ip_proxy/proxy_main.py" />
         <option value="$PROJECT_DIR$/ip_proxy/ip_proxy/settings.py" />
-        <option value="$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py" />
         <option value="$PROJECT_DIR$/ip_proxy/ip_proxy/spiders/kuaidaili.py" />
+        <option value="$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/middlewares.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/spiders/suzhoufang.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/sfw_main.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/items.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/spiders/suzhouesf.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/settings.py" />
+        <option value="$PROJECT_DIR$/sfw/sfw/pipelines.py" />
       </list>
     </option>
   </component>
@@ -125,24 +155,6 @@
             <path>
               <item name="scrapy_method" type="b2602c69:ProjectViewProjectNode" />
               <item name="scrapy_method" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_method" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_method" type="462c0819:PsiDirectoryNode" />
-              <item name="ip_proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_method" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_method" type="462c0819:PsiDirectoryNode" />
-              <item name="ip_proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="ip_proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scrapy_method" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scrapy_method" type="462c0819:PsiDirectoryNode" />
-              <item name="ip_proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="ip_proxy" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -174,29 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.proxy_main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="scrapy_method" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/login/login" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login/login/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sfw_main">
     <configuration name="main_bmw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy_method" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,6 +253,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sfw_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrapy_method" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sfw/sfw" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sfw/sfw/sfw_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wxapp_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scrapy_method" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,11 +299,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sfw_main" />
         <item itemvalue="Python.proxy_main" />
         <item itemvalue="Python.main_login" />
         <item itemvalue="Python.wxapp_main" />
         <item itemvalue="Python.main_bmw" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -307,22 +319,23 @@
       <updated>1559485395955</updated>
       <workItem from="1559485397232" duration="32249000" />
       <workItem from="1559722329622" duration="1398000" />
-      <workItem from="1559739251570" duration="16085000" />
+      <workItem from="1559739251570" duration="34304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49732000" />
+    <option name="totallyTimeSpent" value="67951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.18917471" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.18917471" />
       <window_info id="Structure" order="1" sideWeight="0.50174826" side_tool="true" weight="0.18917471" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4369266" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2821101" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.559633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,7 +345,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32912844" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.45986238" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4380734" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -351,7 +364,8 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scrapy_method$proxy_main.coverage" NAME="proxy_main Coverage Results" MODIFIED="1559803771255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ip_proxy/ip_proxy" />
+    <SUITE FILE_PATH="coverage/scrapy_method$sfw_main.coverage" NAME="sfw_main Coverage Results" MODIFIED="1560168691016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sfw/sfw" />
+    <SUITE FILE_PATH="coverage/scrapy_method$proxy_main.coverage" NAME="proxy_main Coverage Results" MODIFIED="1559803956500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ip_proxy/ip_proxy" />
     <SUITE FILE_PATH="coverage/scrapy_method$logging_demo1.coverage" NAME="logging_demo1 Coverage Results" MODIFIED="1559486680321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scrapy_method$wxapp_main.coverage" NAME="wxapp_main Coverage Results" MODIFIED="1559749239203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawlspider/crawlspider" />
     <SUITE FILE_PATH="coverage/scrapy_method$main_login.coverage" NAME="main_login Coverage Results" MODIFIED="1559800856915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/login" />
@@ -361,15 +375,6 @@
     <SUITE FILE_PATH="coverage/scrapy_method$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1559641823098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login/login" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/yangguang/log.log" />
-    <entry file="file://$PROJECT_DIR$/logging_demo.py" />
-    <entry file="file://$PROJECT_DIR$/logging_demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logging_demo1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -642,10 +647,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/settings.py">
+    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/pipelines.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -656,31 +661,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/spiders/kuaidaili.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="206">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        <state relative-caret-position="651">
+          <caret line="106" column="31" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="31" />
           <folding>
             <element signature="e#169#195#0" expanded="true" />
-            <element signature="e#241#1903#0" />
-            <element signature="e#1953#3596#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/spiders/kuaidaili.py">
+    <entry file="file://$PROJECT_DIR$/ip_proxy/ip_proxy/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="504">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+            <element signature="e#237#1899#0" />
+            <element signature="e#1945#3588#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/newhours.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="50" column="25" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/sfw_main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/spiders/suzhoufang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/spiders/suzhouesf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sfw/sfw/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="42" column="35" lean-forward="true" selection-start-line="42" selection-start-column="35" selection-end-line="42" selection-end-column="35" />
+          <folding>
+            <element signature="e#193#212#0" expanded="true" />
           </folding>
         </state>
       </provider>
